@@ -1,0 +1,5 @@
+escenario,K-prototypes,DBSCAN,ambos,Jaccard,Kappa
+cruda,2405,308,266,0.109,0.187
+cruda,308,308,123,0.249,0.396
+limpia,1504,730,471,0.267,0.41
+limpia,730,730,372,0.342,0.502

@@ -1,0 +1,4 @@
+motor,segundos,particiones
+DuckDB sobre CSV,33.3,-
+Spark sobre CSV (multiLine),140.9,1
+Spark sobre Parquet,2.2,16

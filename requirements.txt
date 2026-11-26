@@ -1,0 +1,10 @@
+pyspark==4.0.1
+pandas>=2.2
+pyarrow>=17
+duckdb>=1.1
+scikit-learn>=1.5
+kmodes==0.12.2
+kneed>=0.8
+matplotlib>=3.9
+joblib>=1.4
+jupyter

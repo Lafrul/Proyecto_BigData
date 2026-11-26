@@ -1,0 +1,5 @@
+grupo,contratos,valor mediano (M COP),plazo mediano (días),% con adiciones > 50%,% publicado > 3 días después
+1. atípico en ambos,54311,13.5,90.0,27.26,56.1
+2. solo DBSCAN,28611,50.5,90.0,10.68,36.5
+3. solo K-prototypes,116444,200.0,180.0,0.58,69.6
+4. normal,5428944,8.3,90.0,0.25,65.8
