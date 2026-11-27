@@ -229,3 +229,6 @@ resultados/modelos/
 resultados/*.parquet
 spark-warehouse/
 metastore_db/
+
+SECOP_I_-_Procesos_de_Compra_Pública_20261125.csv
+resultados/

@@ -8,3 +8,4 @@ kneed>=0.8
 matplotlib>=3.9
 joblib>=1.4
 jupyter
+prefect>=3.0
